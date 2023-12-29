@@ -1,0 +1,4 @@
+/data/summary/*.txt
+/data/exported/*.txt
+/data/converted/*.json
+__pycache__/
